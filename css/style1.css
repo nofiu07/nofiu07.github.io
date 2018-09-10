@@ -1,0 +1,31 @@
+@font-face{
+	src:url('../font/Oswald/Oswald-Light.ttf');
+	font-family: Oswald-Light;
+}
+body{
+	margin: 0px;
+	background-color: green;
+}
+#nofiu{
+	margin-top: 0px;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+.ahouse{
+	margin-left: 180px;
+}
+a{
+	margin-right: 10px;
+	text-decoration: none;
+}
+#last{
+	background-image: url('../Screenshots set 2/Screenshot(11).png');
+} 
+.section{
+	display:flex;}
+
+
+#ptag{
+    font-family: Oswald-Light;
+}
